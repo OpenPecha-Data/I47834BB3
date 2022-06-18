@@ -1,0 +1,36 @@
+id: I47834BB3
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-18T20:14:05.571058'
+last_modified: '2022-06-18T20:14:05.571071'
+parser: null
+source_metadata:
+  title: The Blue Annals (block print), Chos rgyal lhun po printers colophon excerpt
+  author: འགོས་ལོ་ཙཱ་བ་གཞོན་ནུ་དཔལ།
+  description: 'Digital version 1.0 {Tibetan}, diplomatic edition of witness A; master
+    xml (completed: 2020-05-23); revision in process, thematic TEI markup'
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Excerpt/Colophon'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་། (src)
+  - Text input:unspecified
+  - Editorial process:Mathias Fermer (mf)
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:Mathias Fermer (mf)
+  - Revisions/Corrections:Mathias Fermer (mf)
+  text_witnesses: https://sakyaresearch.org/sources/4834
+  bases:
+    dbc0:
+      title: The Blue Annals (block print), Chos rgyal lhun po printers colophon excerpt
+      order: 1
+      base_file: dbc0.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
